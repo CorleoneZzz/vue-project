@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>vue-demo</title>
+    <script src="https://cdn.bootcss.com/vue/2.6.8/vue.min.js"></script>
+    <style>
+        .bg
+        {
+            color: orange;
+        }
+    </style>
+</head>
+<body>
+    <div class="bg">
+        hello world!
+        {{msg}}
+        {{count}}
+        {{msg1}}
+        <div v-html="template"></div>
+        <!-- v-bind是绑定属性的，可以用:代替，v-on是绑定事件的，可以用@代替-->
+        <a v-bind:href="url">百度</a>
+        <button type="button" v-on:click="submit()">加数字</button>
+        <button type="button" @click="submit()">简略写法</button>
+        <div v-if="count>0">
+            当前值是{{count}}，大于0
+        </div>
+        <div v-else-if="count>-5&&count<=0">
+            当前值是{{count}}，大于-5小等于0
+        </div>
+        <div v-else>
+            当前值是{{count}}，小于等于-5
+        </div>
+        <div v-show="count==0">
+            show:{{count}}
+        </div>
+        <div v-for="item in list">
+            {{item}}
+        </div>
+        <div v-for="item in inf">
+            <div v-if="item.name=='小郭'" v-bind:style="styleMsg">
+                {{item.age}}
+            </div>
+        </div>
+    </div>
+    <script>
+       var app= new Vue(
+            {
+                el:'.bg',
+                data:{
+                    msg:'hello vue!',
+                    count:0,
+                    list:[1,2,3,4,5],
+                    inf:[
+                        {
+                            name:"小郭",
+                            age:"25"
+                        },
+                        {
+                            name:"小付",
+                            age:"21"
+                        }
+                    ],
+                    url:'http://www.baidu.com',
+                    template:'<div>hello template</div>',
+                    styleMsg:
+                        {
+                            color:'blue'
+                        }
+                },
+                methods:
+                    {
+                       submit:function ()
+                       {
+                           this.count++;
+                       }
+                    },
+                watch:
+                    {
+                        msg:function (newval,oldval) {
+                            console.log('newval is'+newval);
+                            console.log('oldval is'+oldval);
+                        }
+                    },
+                computed:
+                    {
+                        msg1:function () {
+                            return 'computed:'+this.msg
+                        }
+                    }
+            }
+        )
+    </script>
+</body>
+</html>
