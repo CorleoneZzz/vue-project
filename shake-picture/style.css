@@ -1,0 +1,37 @@
+.bag
+{
+    width: 600px;
+    margin: 0 auto;
+}
+.bag .image
+{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 500px;
+    background: url("imgs/bag.png") center no-repeat;
+}
+.bag .brust
+{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 500px;
+    background-image: url("imgs/bag-burst.png");
+}
+.bag .process
+{
+    background: red;
+    width: 200px;
+    height: 20px;
+    margin: 0 auto;
+}
+.bag .controls
+{
+    margin: 20px auto 0 auto;
+    width: 200px;
+}
+.bag .controls button
+{
+    margin-left:30px ;
+}
