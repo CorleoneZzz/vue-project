@@ -21,6 +21,7 @@
 }
 .bag .process
 {
+    border: 1px solid black;
     background: red;
     width: 200px;
     height: 20px;
