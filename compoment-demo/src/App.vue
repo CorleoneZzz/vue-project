@@ -2,20 +2,20 @@
   <div id="app">
     <Header></Header>
     <img src="./assets/logo.png">
-    <HelloWorld/>
+    <User></User>
     <Footer></Footer>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld'
 import Header from './components/Header'
 import Footer from './components/Footer'
+import User from "./components/User";
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,Header,Footer
+    User,Header,Footer
   }
 }
 </script>
