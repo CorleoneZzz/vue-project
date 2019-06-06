@@ -12,18 +12,36 @@
 <script>
   export default {
     name: "User",
+    props:
+      {
+        users:
+          {
+            type: Array,
+            required: true
+          }
+      },
     data() {
       return {
-        users: [
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false}
-        ]
+        //抽离到父组件
+        // users: [
+        //   {name: "Henry", position: "web开发", show: false},
+        //   {name: "Henry", position: "web开发", show: false},
+        //   {name: "Henry", position: "web开发", show: false},
+        //   {name: "Henry", position: "web开发", show: false},
+        //   {name: "Henry", position: "web开发", show: false},
+        //   {name: "Henry", position: "web开发", show: false},
+        //   {name: "Henry", position: "web开发", show: false},
+        //   {name: "Henry", position: "web开发", show: false}
+        //   {name: "Henry", position: "web开发", show: false}
+        //   {name: "Henry", position: "web开发", show: false}
+        //   {name: "Henry", position: "web开发", show: false}
+        //   {name: "Henry", position: "web开发", show: false}
+        //   {name: "Henry", position: "web开发", show: false}
+        //   {name: "Henry", position: "web开发", show: false}
+        //   {name: "Henry", position: "web开发", show: false}
+        //   {name: "Henry", position: "web开发", show: false}
+        //   {name: "Henry", position: "web开发", show: false}
+        // ]
       }
     }
   }
