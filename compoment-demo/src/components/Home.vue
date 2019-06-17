@@ -21,23 +21,23 @@
     data() {
       return {
         users: [
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false},
-          {name: "Henry", position: "web开发", show: false}
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false},
+          // {name: "Henry", position: "web开发", show: false}
         ],
         title: "传递的是一个值，number string boolean"
       }
@@ -47,7 +47,15 @@
         updateTitle(title) {
           this.title = title;
         }
-      }
+      },
+    created() {
+      this.$http.get("http://jsonplaceholder.typicode.com/users")
+        .then((data) => {
+            console.log(data)
+            this.users = data.body;
+          }
+        )
+    }
   }
 </script>
 

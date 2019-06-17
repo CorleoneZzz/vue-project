@@ -3,6 +3,7 @@
 import Vue from 'vue'
 //引入路由模块
 import VueRouter from 'vue-router'
+import VueResource from 'vue-resource'
 import App from './App'
 import HelloWorld from "./components/HelloWorld";
 import Home from "./components/Home";
@@ -10,6 +11,7 @@ import Home from "./components/Home";
 Vue.config.productionTip = false
 //注明使用当前路由
 Vue.use(VueRouter)
+Vue.use(VueResource)
 
 //配置路由组件
 const router = new VueRouter(
