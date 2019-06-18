@@ -87,9 +87,16 @@
 
     textarea, input, select {
       width: 100%;
+      resize: none;
+    }
+
+    textarea {
+      height: 120px;
+      border-radius: 4px;
     }
 
     label {
+      margin-top: 20px;
       display: block;
     }
 
@@ -108,7 +115,7 @@
       border-radius: 4px;
       background: crimson;
       padding: 10px;
-      margin-top: 10px;
+      margin-top: 20px;
     }
 
     #preview {

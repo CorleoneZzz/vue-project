@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vue-blog/src/components/ShowBlog.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-blog/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-blog/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-blog/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-blog/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue-blog/src/components/AddBlog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-blog/src/components/AddBlog.vue" afterDir="false" />
     </list>
@@ -19,32 +18,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vue-blog/src/components/ShowBlog.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue-blog/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vue-blog/src/components/AddBlog.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+            <state relative-caret-position="45">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+              <folding>
+                <element signature="e#93#135#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/compoment-demo/src/components/Home.vue">
+        <entry file="file://$PROJECT_DIR$/vue-blog/src/components/AddBlog.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
-              <folding>
-                <element signature="e#265#294#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="628">
+              <caret line="119" column="20" selection-start-line="119" selection-start-column="20" selection-end-line="119" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -87,8 +86,9 @@
         <option value="$PROJECT_DIR$/vue-blog/config/index.js" />
         <option value="$PROJECT_DIR$/hello-vue/index.html" />
         <option value="$PROJECT_DIR$/vue-blog/src/main.js" />
-        <option value="$PROJECT_DIR$/vue-blog/src/App.vue" />
         <option value="$PROJECT_DIR$/vue-blog/src/components/AddBlog.vue" />
+        <option value="$PROJECT_DIR$/vue-blog/src/App.vue" />
+        <option value="$PROJECT_DIR$/vue-blog/src/components/ShowBlog.vue" />
       </list>
     </option>
   </component>
@@ -122,6 +122,19 @@
               <item name="vue-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-project" type="462c0819:PsiDirectoryNode" />
               <item name="vue-blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-project" type="462c0819:PsiDirectoryNode" />
+              <item name="vue-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-project" type="462c0819:PsiDirectoryNode" />
+              <item name="vue-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue-project" type="b2602c69:ProjectViewProjectNode" />
@@ -189,7 +202,7 @@
       <workItem from="1559744997263" duration="1998000" />
       <workItem from="1560765160684" duration="2354000" />
       <workItem from="1560821478191" duration="4240000" />
-      <workItem from="1560841791599" duration="3847000" />
+      <workItem from="1560841791599" duration="6895000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:Guobinze/vue-project&#10;&#10;# Conflicts:&#10;#&#9;compoment-demo/src/components/Footer.vue&#10;#&#9;compoment-demo/src/components/Header.vue">
       <created>1559788614960</created>
@@ -233,11 +246,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560765205989</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="添加博客页面">
+      <created>1560850036538</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560850036538</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45774000" />
+    <option name="totallyTimeSpent" value="48822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -275,7 +295,8 @@
     <MESSAGE value="vue 路由知识" />
     <MESSAGE value="vue-resource commit" />
     <MESSAGE value="vue-blog create" />
-    <option name="LAST_COMMIT_MESSAGE" value="vue-blog create" />
+    <MESSAGE value="添加博客页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加博客页面" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -451,15 +472,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vue-blog/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="45">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding>
+            <element signature="e#93#135#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vue-blog/src/components/AddBlog.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+        <state relative-caret-position="628">
+          <caret line="119" column="20" selection-start-line="119" selection-start-column="20" selection-end-line="119" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-blog/src/components/ShowBlog.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
         </state>
       </provider>
     </entry>
