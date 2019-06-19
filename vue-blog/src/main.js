@@ -3,17 +3,20 @@
 import Vue from 'vue'
 import App from './App'
 import VueResource from 'vue-resource'
-import router from './router'
+import VueRouter from 'vue-router'
+import Routers from './routes'
+
 
 Vue.config.productionTip = false
 Vue.use(VueResource)
+Vue.use(VueRouter)
 
-//自定义指令
-Vue.directive('color', {
-  bind(el, binding, vnode) {
-    el.style.color = "crimson";
-  }
-})
+//全局自定义指令
+// Vue.directive('color', {
+//   bind(el, binding, vnode) {
+//     el.style.color = "crimson";
+//   }
+// })
 
 Vue.directive('theme', {
   bind(el, binding, vnode) {
@@ -28,6 +31,23 @@ Vue.directive('theme', {
     }
   }
 })
+
+//全局自定义过滤器
+// Vue.filter('to-uppercase', (value) => {
+//   return value.toUpperCase();
+// })
+
+Vue.filter('snippet', (value) => {
+  return value.slice(0, 120) + '...';
+})
+
+//配置路由组件
+const router = new VueRouter(
+  {
+    routes:Routers,
+    mode: 'history'
+  }
+)
 
 /* eslint-disable no-new */
 new Vue({

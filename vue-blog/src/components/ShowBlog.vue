@@ -1,10 +1,11 @@
 <template>
   <div class="show-blog" v-theme:column="'narrow'">
     <h2>博客总览</h2>
-    <div class="single-blog" v-for="blog in blogs">
-      <h3 v-color>{{blog.title}}</h3>
+    <input type="text" v-model="search" placeholder="搜索">
+    <div class="single-blog" v-for="blog in filterBlogs">
+      <h3 v-color>{{blog.title|toUppercase}}</h3>
       <article>
-        {{blog.body}}
+        {{blog.body|snippet}}
       </article>
     </div>
   </div>
@@ -15,7 +16,8 @@
     name: "ShowBlog",
     data() {
       return {
-        blogs: []
+        blogs: [],
+        search:''
       }
     },
     created() {
@@ -24,7 +26,33 @@
         .then((data) => {
           this.blogs = data.body.slice(0, 10);
         })
-    }
+    },
+    computed:
+      {
+        filterBlogs()
+        {
+          return this.blogs.filter((blog)=>
+          {
+            return blog.title.match(this.search);
+          })
+        }
+      },
+    //局部过滤器
+    filters:
+      {
+        toUppercase(value)
+        {
+          return value.toUpperCase();
+        }
+      },
+    directives:
+      {
+        'color': {
+            bind(el, binding, vnode) {
+              el.style.color = "crimson";
+            }
+          }
+      }
   }
 </script>
 
