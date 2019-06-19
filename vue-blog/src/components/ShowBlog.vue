@@ -1,8 +1,8 @@
 <template>
-  <div class="show-blog">
+  <div class="show-blog" v-theme:column="'narrow'">
     <h2>博客总览</h2>
     <div class="single-blog" v-for="blog in blogs">
-      <h3>{{blog.title}}</h3>
+      <h3 v-color>{{blog.title}}</h3>
       <article>
         {{blog.body}}
       </article>
@@ -29,9 +29,18 @@
 </script>
 
 <style lang="scss" scoped>
-  .single-blog {
-    background: aliceblue;
-    padding: 10px;
-    margin-top: 20px;
+  .show-blog {
+    max-width: 800px;
+    margin: 20px auto;
+
+    h2 {
+      text-align: center;
+    }
+
+    .single-blog {
+      background: aliceblue;
+      padding: 10px;
+      margin-top: 20px;
+    }
   }
 </style>
