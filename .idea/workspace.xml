@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/router-demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-demo/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-demo/lib/vue-router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-demo/lib/vue.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -15,26 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shopping-mall/build/webpack.base.conf.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shopping-mall/build/check-versions.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shopping-mall/.postcssrc.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shopping-mall/build/webpack.prod.conf.js">
+        <entry file="file://$PROJECT_DIR$/router-demo/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/router-demo/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -45,10 +43,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="vue File" />
-        <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="Vue Single File Component" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -92,6 +90,11 @@
         <option value="$PROJECT_DIR$/vue-blog/src/components/ShowBlog.vue" />
         <option value="$PROJECT_DIR$/vue-blog/src/components/AddBlog.vue" />
         <option value="$PROJECT_DIR$/shopping-mall/build/webpack.prod.conf.js" />
+        <option value="$PROJECT_DIR$/router-demo/js/vue-router.js" />
+        <option value="$PROJECT_DIR$/router-demo/lib/vue.js" />
+        <option value="$PROJECT_DIR$/router-demo/lib/vue-router.js" />
+        <option value="$PROJECT_DIR$/router-demo/index.html" />
+        <option value="$PROJECT_DIR$/router-demo/js/app.js" />
       </list>
     </option>
   </component>
@@ -114,6 +117,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,19 +128,24 @@
             <path>
               <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="shopping-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="router-demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="shopping-mall" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="router-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="router-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,6 +161,9 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/router-demo/lib" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/compoment-demo/src/components" />
       <recent name="$PROJECT_DIR$/shake-picture/imgs" />
@@ -199,7 +211,8 @@
       <workItem from="1561372187428" duration="374000" />
       <workItem from="1561782100097" duration="1010000" />
       <workItem from="1561811368222" duration="73000" />
-      <workItem from="1561811476629" duration="1088000" />
+      <workItem from="1561811476629" duration="2478000" />
+      <workItem from="1561945127061" duration="7004000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:Guobinze/vue-project&#10;&#10;# Conflicts:&#10;#&#9;compoment-demo/src/components/Footer.vue&#10;#&#9;compoment-demo/src/components/Header.vue">
       <created>1559788614960</created>
@@ -275,7 +288,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68105000" />
+    <option name="totallyTimeSpent" value="76499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -292,7 +305,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32907802" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32969603" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -546,8 +559,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shopping-mall/build/webpack.prod.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        <state relative-caret-position="221">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router-demo/lib/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11944" selection-start-line="11944" selection-end-line="11944" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router-demo/lib/vue-router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4240">
+          <caret line="2679" selection-start-line="2679" selection-end-line="2679" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router-demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router-demo/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>

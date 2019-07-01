@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <div>
+        <router-link to="/">首页</router-link>
+        <router-link to="/about">关于我们</router-link>
+        <router-link to="/user/魏淑芬">魏淑芬</router-link>
+        <router-link to="/user/张国富">张国富</router-link>
+        <!-- 手动访问和传参-->
+        <button @click="visitPage">手动访问</button>
+    </div>
+    <div>
+        <router-view name="sidebar"></router-view>
+        <router-view name="main"></router-view>
+    </div>
+</div>
+<script src="lib/vue.js"></script>
+<script src="lib/vue-router.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
