@@ -1,6 +1,6 @@
 <template>
   <div class="TranslateOutput">
-
+    {{translateData}}
   </div>
 </template>
 
@@ -12,6 +12,8 @@
 
       }
     },
+    props:
+      ["translateData"],
     methods:
       {
 

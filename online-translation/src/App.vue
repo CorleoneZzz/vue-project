@@ -4,7 +4,7 @@
     <h3>简单/易用/便捷</h3>
     <!--接受子组件传来的事件-->
     <translate-form v-on:formSubmit="TranslateData"></translate-form>
-    <translate-output></translate-output>
+    <translate-output v-text="translateData"></translate-output>
   </div>
 </template>
 
@@ -20,10 +20,18 @@
       TranslateForm,
       HelloWorld
     },
+    data() {
+      return {
+        translateData: ''
+      }
+    },
     methods:
       {
-        TranslateData(data) {
-           alert(data)
+        TranslateData(data, language) {
+          this.$http.get("https://translate.yandex.net/api/v1.5/tr.json/translate?key=trnsl.1.1.20190712T092548Z.c9dea7bfdf4c67be.be65d7d2111f532cd97266858abdcdbd8577d409&lang=" + language + "&text=" + data)
+            .then(r => {
+              this.translateData = r.body.text[0];
+            })
         }
       }
   }
