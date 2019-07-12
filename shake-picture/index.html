@@ -9,7 +9,9 @@
 <body>
 <div class="bag">
     <div class="image" v-bind:class="{brust:ended}"></div>
-    <div class="process" v-bind:style="{width:health+'%'}"></div>
+    <div class="process">
+        <div class="process-bar" v-bind:style="{width:health+'%'}"></div>
+    </div>
     <div class="controls">
         <button v-on:click="shake">打破它</button>
         <button v-on:click="restart">重新开始</button>
