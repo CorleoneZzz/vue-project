@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/online-translation/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/online-translation/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online-translation/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/online-translation/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online-translation/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/online-translation/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online-translation/src/components/TranslateForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/online-translation/src/components/TranslateForm.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online-translation/src/components/TranslateOutput.vue" beforeDir="false" afterPath="$PROJECT_DIR$/online-translation/src/components/TranslateOutput.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online-translation/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/online-translation/src/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/online-translation/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="188" selection-start-line="30" selection-start-column="188" selection-end-line="30" selection-end-column="188" />
+            <state relative-caret-position="90">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="43" />
               <folding>
                 <element signature="e#258#306#0" expanded="true" />
               </folding>
@@ -32,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/online-translation/src/components/TranslateForm.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -45,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/online-translation/src/components/TranslateOutput.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -53,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/online-translation/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="60">
               <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -282,6 +275,7 @@
       <workItem from="1562592739526" duration="5620000" />
       <workItem from="1562896700860" duration="2953000" />
       <workItem from="1562916322199" duration="6084000" />
+      <workItem from="1562938337258" duration="120000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:Guobinze/vue-project&#10;&#10;# Conflicts:&#10;#&#9;compoment-demo/src/components/Footer.vue&#10;#&#9;compoment-demo/src/components/Header.vue">
       <created>1559788614960</created>
@@ -357,7 +351,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91330000" />
+    <option name="totallyTimeSpent" value="91450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -732,9 +726,19 @@
         <state relative-caret-position="-1407" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/online-translation/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <element signature="e#258#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/online-translation/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="60">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -746,7 +750,7 @@
     <entry file="file://$PROJECT_DIR$/online-translation/src/components/TranslateOutput.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -754,16 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/online-translation/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="188" selection-start-line="30" selection-start-column="188" selection-end-line="30" selection-end-column="188" />
-          <folding>
-            <element signature="e#258#306#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
