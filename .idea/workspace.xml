@@ -2,355 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDFinance/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/dist/bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JDFinance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/anymatch/node_modules/normalize-path/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/anymatch/node_modules/normalize-path/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/aproba/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/aproba/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/arr-diff/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/arr-diff/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/arr-flatten/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/arr-flatten/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/arr-union/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/arr-union/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/array-unique/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/array-unique/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/assign-symbols/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/assign-symbols/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/async-each/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/async-each/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/atob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/atob/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/balanced-match/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/balanced-match/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/base/node_modules/define-property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/base/node_modules/define-property/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/base/node_modules/is-accessor-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/base/node_modules/is-accessor-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/base/node_modules/is-data-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/base/node_modules/is-data-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/base/node_modules/is-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/base/node_modules/is-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/base/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/base/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/base64-js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/base64-js/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/big.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/big.js/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/binary-extensions/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/binary-extensions/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/bluebird/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/bluebird/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/brace-expansion/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/brace-expansion/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/braces/node_modules/extend-shallow/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/braces/node_modules/extend-shallow/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/braces/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/braces/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/brorand/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/brorand/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/browserify-aes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/browserify-aes/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/browserify-cipher/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/browserify-cipher/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/browserify-des/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/browserify-des/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/browserify-rsa/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/browserify-rsa/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/browserify-sign/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/browserify-sign/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/browserify-zlib/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/browserify-zlib/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/buffer-from/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/buffer-from/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/buffer-xor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/buffer-xor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/buffer/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/builtin-status-codes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/builtin-status-codes/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/cacache/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/cacache/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/cache-base/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/cache-base/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/cipher-base/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/cipher-base/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/class-utils/node_modules/define-property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/class-utils/node_modules/define-property/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/class-utils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/class-utils/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/collection-visit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/collection-visit/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/commander/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/commander/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/commondir/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/commondir/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/component-emitter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/component-emitter/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/concat-map/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/concat-map/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/concat-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/concat-stream/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/console-browserify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/console-browserify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/constants-browserify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/constants-browserify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/copy-concurrently/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/copy-concurrently/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/copy-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/copy-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/core-util-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/core-util-is/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/create-ecdh/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/create-ecdh/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/create-hash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/create-hash/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/create-hmac/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/create-hmac/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/crypto-browserify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/crypto-browserify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/cyclist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/cyclist/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/date-now/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/date-now/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/debug/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/decode-uri-component/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/decode-uri-component/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/define-property/node_modules/is-data-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/define-property/node_modules/is-data-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/define-property/node_modules/is-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/define-property/node_modules/is-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/define-property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/define-property/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/des.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/des.js/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/diffie-hellman/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/diffie-hellman/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/domain-browser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/domain-browser/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/emojis-list/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/emojis-list/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/end-of-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/end-of-stream/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/enhanced-resolve/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/enhanced-resolve/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/errno/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/errno/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/esrecurse/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/esrecurse/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/estraverse/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/estraverse/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/events/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/events/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/evp_bytestokey/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/evp_bytestokey/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/expand-brackets/node_modules/define-property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/expand-brackets/node_modules/define-property/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/expand-brackets/node_modules/extend-shallow/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/expand-brackets/node_modules/extend-shallow/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/expand-brackets/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/expand-brackets/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/extend-shallow/node_modules/is-extendable/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/extend-shallow/node_modules/is-extendable/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/extend-shallow/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/extend-shallow/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/extglob/node_modules/define-property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/extglob/node_modules/define-property/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/extglob/node_modules/extend-shallow/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/extglob/node_modules/extend-shallow/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/extglob/node_modules/is-accessor-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/extglob/node_modules/is-accessor-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/extglob/node_modules/is-data-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/extglob/node_modules/is-data-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/extglob/node_modules/is-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/extglob/node_modules/is-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/extglob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/extglob/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/fast-json-stable-stringify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/fast-json-stable-stringify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/fill-range/node_modules/extend-shallow/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/fill-range/node_modules/extend-shallow/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/fill-range/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/fill-range/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/find-cache-dir/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/find-cache-dir/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/find-up/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/find-up/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/flush-write-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/flush-write-stream/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/for-in/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/for-in/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/fragment-cache/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/fragment-cache/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/from2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/from2/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/fs-write-stream-atomic/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/fs-write-stream-atomic/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/fs.realpath/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/fs.realpath/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/get-value/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/get-value/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/glob-parent/node_modules/is-glob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/glob-parent/node_modules/is-glob/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/glob-parent/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/glob-parent/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/graceful-fs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/graceful-fs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/has-value/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/has-value/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/has-values/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/has-values/node_modules/kind-of/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/has-values/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/has-values/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/hash-base/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/hash-base/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/hash.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/hash.js/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/hmac-drbg/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/hmac-drbg/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/https-browserify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/https-browserify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/ieee754/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/ieee754/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/iferr/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/iferr/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/imurmurhash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/imurmurhash/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/inflight/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/inflight/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/is-accessor-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/is-accessor-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/is-binary-path/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/is-binary-path/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/is-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/is-buffer/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/is-data-descriptor/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/is-data-descriptor/node_modules/kind-of/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/is-data-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/is-data-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/is-descriptor/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/is-descriptor/node_modules/kind-of/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/is-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/is-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/is-extendable/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/is-extendable/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/is-extglob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/is-extglob/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/is-glob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/is-glob/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/is-number/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/is-number/node_modules/kind-of/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/is-number/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/is-number/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/is-windows/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/is-windows/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/json-parse-better-errors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/json-parse-better-errors/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/json-schema-traverse/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/json-schema-traverse/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/json5/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/json5/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/kind-of/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/loader-runner/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/loader-runner/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/loader-utils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/loader-utils/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/lru-cache/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/lru-cache/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/lru-cache/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/lru-cache/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/lru-cache/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/lru-cache/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/make-dir/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/make-dir/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/map-cache/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/map-cache/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/map-visit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/map-visit/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/md5.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/md5.js/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/memory-fs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/memory-fs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/micromatch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/micromatch/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/miller-rabin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/miller-rabin/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/minimalistic-assert/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/minimalistic-assert/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/minimalistic-crypto-utils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/minimalistic-crypto-utils/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/minimatch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/minimatch/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/minimist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/minimist/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/mississippi/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/mississippi/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/mixin-deep/node_modules/is-extendable/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/mixin-deep/node_modules/is-extendable/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/mkdirp/node_modules/minimist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/mkdirp/node_modules/minimist/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/mkdirp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/mkdirp/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/move-concurrently/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/move-concurrently/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/nanomatch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/nanomatch/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/neo-async/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/neo-async/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/node-libs-browser/node_modules/punycode/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/node-libs-browser/node_modules/punycode/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/node-libs-browser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/node-libs-browser/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/normalize-path/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/normalize-path/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/object-assign/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/object-assign/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/object-copy/node_modules/define-property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/object-copy/node_modules/define-property/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/object-copy/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/object-copy/node_modules/kind-of/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/object-copy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/object-copy/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/object-visit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/object-visit/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/object.pick/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/object.pick/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/once/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/once/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/os-browserify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/os-browserify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/p-limit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/p-limit/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/p-locate/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/p-locate/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/p-try/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/p-try/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/pako/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/pako/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/parallel-transform/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/parallel-transform/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/parse-asn1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/parse-asn1/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/pascalcase/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/pascalcase/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/path-browserify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/path-browserify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/path-dirname/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/path-dirname/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/path-exists/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/path-exists/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/path-is-absolute/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/path-is-absolute/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/pbkdf2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/pbkdf2/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/pify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/pify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/pkg-dir/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/pkg-dir/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/posix-character-classes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/posix-character-classes/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/process/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/process/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/promise-inflight/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/promise-inflight/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/prr/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/prr/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/public-encrypt/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/public-encrypt/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/pump/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/pump/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/pumpify/node_modules/pump/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/pumpify/node_modules/pump/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/pumpify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/pumpify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/punycode/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/punycode/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/querystring-es3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/querystring-es3/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/querystring/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/querystring/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/randombytes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/randombytes/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/randomfill/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/randomfill/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/regex-not/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/regex-not/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/remove-trailing-separator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/remove-trailing-separator/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/repeat-element/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/repeat-element/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/repeat-string/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/repeat-string/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/resolve-url/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/resolve-url/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/ret/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/ret/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/rimraf/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/rimraf/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/ripemd160/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/ripemd160/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/run-queue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/run-queue/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/safe-regex/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/safe-regex/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/schema-utils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/schema-utils/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/semver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/semver/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/serialize-javascript/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/serialize-javascript/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/set-value/node_modules/extend-shallow/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/set-value/node_modules/extend-shallow/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/setimmediate/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/setimmediate/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/sha.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/sha.js/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon-node/node_modules/define-property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon-node/node_modules/define-property/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon-node/node_modules/is-accessor-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon-node/node_modules/is-accessor-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon-node/node_modules/is-data-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon-node/node_modules/is-data-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon-node/node_modules/is-descriptor/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon-node/node_modules/is-descriptor/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon-node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon-node/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon-util/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon-util/node_modules/kind-of/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon-util/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon-util/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon/node_modules/define-property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon/node_modules/define-property/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon/node_modules/extend-shallow/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon/node_modules/extend-shallow/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/snapdragon/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-list-map/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/source-list-map/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-resolve/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/source-map-resolve/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/dist/source-map.debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/dist/source-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/dist/source-map.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/dist/source-map.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/lib/array-set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/lib/base64-vlq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/lib/base64.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/lib/binary-search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/lib/mapping-list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/lib/quick-sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/lib/source-map-consumer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/lib/source-map-generator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/lib/source-node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/lib/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/source-map.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/node_modules/source-map/source-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/source-map-support/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map-url/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/source-map-url/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/source-map/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map/dist/source-map.debug.js" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/source-map/dist/source-map.debug.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map/dist/source-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/source-map/dist/source-map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map/dist/source-map.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/source-map/dist/source-map.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map/dist/source-map.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/source-map/dist/source-map.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map/lib/source-map-consumer.js" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/source-map/lib/source-map-consumer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map/lib/source-map-generator.js" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/source-map/lib/source-map-generator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map/lib/source-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/source-map/lib/source-node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map/lib/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/source-map/lib/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/source-map/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/source-map/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/ssri/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/ssri/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/static-extend/node_modules/define-property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/static-extend/node_modules/define-property/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/static-extend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/static-extend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/stream-browserify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/stream-browserify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/stream-each/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/stream-each/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/stream-http/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/stream-http/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/stream-shift/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/stream-shift/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/string_decoder/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/dist/source-map.debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/dist/source-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/dist/source-map.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/dist/source-map.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/lib/array-set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/lib/base64-vlq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/lib/base64.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/lib/binary-search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/lib/mapping-list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/lib/quick-sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/lib/source-map-consumer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/lib/source-map-generator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/lib/source-node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/lib/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/source-map.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser-webpack-plugin/node_modules/source-map/source-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/dist/source-map.debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/dist/source-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/dist/source-map.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/dist/source-map.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/lib/array-set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/lib/base64-vlq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/lib/base64.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/lib/binary-search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/lib/mapping-list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/lib/quick-sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/lib/source-map-consumer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/lib/source-map-generator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/lib/source-node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/lib/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/source-map.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/terser/node_modules/source-map/source-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/through2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/through2/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/timers-browserify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/timers-browserify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/to-arraybuffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/to-arraybuffer/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/to-object-path/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/to-object-path/node_modules/kind-of/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/to-object-path/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/to-object-path/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/to-regex-range/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/to-regex-range/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/to-regex/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/to-regex/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/tty-browserify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/tty-browserify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/typedarray/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/typedarray/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/union-value/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/union-value/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/unique-filename/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/unique-filename/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/unset-value/node_modules/has-value/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/unset-value/node_modules/has-value/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/unset-value/node_modules/has-values/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/unset-value/node_modules/has-values/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/unset-value/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/unset-value/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/upath/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/upath/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/uri-js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/uri-js/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/urix/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/urix/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/url/node_modules/punycode/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/url/node_modules/punycode/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/url/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/url/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/use/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/use/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/util-deprecate/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/util-deprecate/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/vm-browserify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/vm-browserify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/dist/source-map.debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/dist/source-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/dist/source-map.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/dist/source-map.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/lib/array-set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/lib/base64-vlq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/lib/base64.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/lib/binary-search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/lib/mapping-list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/lib/quick-sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/lib/source-map-consumer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/lib/source-map-generator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/lib/source-node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/lib/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/source-map.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/node_modules/source-map/source-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/webpack-sources/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/webpack/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/webpack/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/wrappy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/wrappy/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/y18n/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/y18n/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/yallist/iterator.js" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/yallist/iterator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/yallist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/yallist/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/node_modules/yallist/yallist.js" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/node_modules/yallist/yallist.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JDFinance/src/app.vue" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/src/app.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JDFinance/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/src/main.js" afterDir="false" />
     </list>
@@ -366,31 +19,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/online-translation/src/App.vue">
+        <entry file="file://$PROJECT_DIR$/JDFinance/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="195">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JDFinance/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
               <folding>
-                <element signature="e#258#306#0" expanded="true" />
+                <marker date="1563090351239" expanded="true" signature="19:107" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/online-translation/src/components/TranslateForm.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/JDFinance/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/online-translation/src/main.js">
+        <entry file="file://$PROJECT_DIR$/JDFinance/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JDFinance/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JDFinance/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="180">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#140#161#0" expanded="true" />
@@ -399,46 +67,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/online-translation/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compoment-demo/config/dev.env.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compoment-demo/config/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
+            <state relative-caret-position="-215" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/online-translation/config/index.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/online-translation/config/dev.env.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/online-translation/config/prod.env.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/online-translation/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/online-translation/build/webpack.dev.conf.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/online-translation/src/components/HelloWorld.vue">
+        <entry file="file://$PROJECT_DIR$/compoment-demo/config/prod.env.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -514,6 +156,9 @@
         <option value="$PROJECT_DIR$/online-translation/src/App.vue" />
         <option value="$PROJECT_DIR$/online-translation/src/components/TranslateForm.vue" />
         <option value="$PROJECT_DIR$/online-translation/src/components/1.vue" />
+        <option value="$PROJECT_DIR$/JDFinance/src/main.js" />
+        <option value="$PROJECT_DIR$/JDFinance/index.html" />
+        <option value="$PROJECT_DIR$/JDFinance/src/App.vue" />
       </list>
     </option>
   </component>
@@ -547,24 +192,12 @@
             <path>
               <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="online-translation" type="462c0819:PsiDirectoryNode" />
+              <item name="JDFinance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="online-translation" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="online-translation" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="online-translation" type="462c0819:PsiDirectoryNode" />
+              <item name="JDFinance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -646,6 +279,7 @@
       <workItem from="1562938337258" duration="120000" />
       <workItem from="1563024893640" duration="1180000" />
       <workItem from="1563030742498" duration="513000" />
+      <workItem from="1563089322797" duration="1690000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:Guobinze/vue-project&#10;&#10;# Conflicts:&#10;#&#9;compoment-demo/src/components/Footer.vue&#10;#&#9;compoment-demo/src/components/Header.vue">
       <created>1559788614960</created>
@@ -721,7 +355,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93143000" />
+    <option name="totallyTimeSpent" value="94833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -787,71 +421,6 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vue-blog/src/components/ShowBlog.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-blog/src/components/SingleBlog.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-blog/src/components/AddBlog.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-blog/src/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopping-mall/build/check-versions.js" />
-    <entry file="file://$PROJECT_DIR$/shopping-mall/.postcssrc.js" />
-    <entry file="file://$PROJECT_DIR$/shopping-mall/build/webpack.prod.conf.js" />
-    <entry file="file://$PROJECT_DIR$/router-demo/lib/vue.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="11944" selection-start-line="11944" selection-end-line="11944" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/router-demo/lib/vue-router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4240">
-          <caret line="2679" selection-start-line="2679" selection-end-line="2679" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/router-demo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopping-mall/build/webpack.base.conf.js" />
-    <entry file="file://$PROJECT_DIR$/shopping-mall/package-lock.json" />
-    <entry file="file://$PROJECT_DIR$/shopping-mall/src/assets/css/product.css" />
-    <entry file="file://$PROJECT_DIR$/shopping-mall/package.json" />
     <entry file="file://$PROJECT_DIR$/shopping-mall/src/components/Gooter.vue" />
     <entry file="file://$USER_HOME$/Downloads/20171130Vue2.0+Node.js+MongoDB全栈打造商城系统/代码/v18dyy/src/components/NavBread.vue">
       <provider selected="true" editor-type-id="text-editor">
@@ -1006,11 +575,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/online-translation/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/online-translation/src/components/HelloWorld.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/online-translation/build/webpack.dev.conf.js">
+    <entry file="file://$PROJECT_DIR$/compoment-demo/index.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compoment-demo/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compoment-demo/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#171#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/online-translation/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -1023,22 +609,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/online-translation/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <element signature="e#258#306#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/online-translation/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/京东金融/Finance/JDFinance-master/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-632" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/京东金融/Finance/JDFinance-master/app/views/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compoment-demo/config/prod.env.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compoment-demo/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/online-translation/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#258#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compoment-demo/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <marker date="1563090351239" expanded="true" signature="19:107" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
