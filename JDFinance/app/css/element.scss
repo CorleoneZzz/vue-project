@@ -24,9 +24,11 @@
     height: $height;
     line-height: $height;
     padding: $txtPadding;
+    //标题三连，我是分割线
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
+    //分割线
     text-align: center;
     color: $color;
     font-size: $fontSize
