@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="" />
+    <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JDFinance/app/js/public/Header.vue" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,11 +15,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JDFinance/app/css/element.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="540">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JDFinance/app/js/public/header.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-92">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JDFinance/app/js/home/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -48,8 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/vue.vue" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/play-demo/style.css" />
         <option value="$PROJECT_DIR$/play-demo/main.js" />
         <option value="$PROJECT_DIR$/play-demo/index.html" />
@@ -99,6 +117,8 @@
         <option value="$PROJECT_DIR$/JDFinance/src/App.vue" />
         <option value="$PROJECT_DIR$/JDFinance/app/css/element.scss" />
         <option value="$PROJECT_DIR$/JDFinance/app/js/component/btn.vue" />
+        <option value="$PROJECT_DIR$/JDFinance/app/js/public/Header.vue" />
+        <option value="$PROJECT_DIR$/JDFinance/app/js/public/header.vue" />
       </list>
     </option>
   </component>
@@ -134,6 +154,43 @@
               <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
               <item name="JDFinance" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="JDFinance" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="JDFinance" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="JDFinance" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="JDFinance" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="JDFinance" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -145,7 +202,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JDFinance/app/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JDFinance/app/js/public" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -153,15 +210,15 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/router-demo/lib" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JDFinance/app/js/public" />
       <recent name="$PROJECT_DIR$/JDFinance/app/css" />
       <recent name="$PROJECT_DIR$/shopping-mall/static" />
       <recent name="$PROJECT_DIR$/shopping-mall/src/assets/css" />
       <recent name="$PROJECT_DIR$/compoment-demo/src/components" />
-      <recent name="$PROJECT_DIR$/shake-picture/imgs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/router-demo/lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -216,6 +273,7 @@
       <workItem from="1563030742498" duration="513000" />
       <workItem from="1563089322797" duration="3330000" />
       <workItem from="1563200162567" duration="1485000" />
+      <workItem from="1563262185047" duration="608000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:Guobinze/vue-project&#10;&#10;# Conflicts:&#10;#&#9;compoment-demo/src/components/Footer.vue&#10;#&#9;compoment-demo/src/components/Header.vue">
       <created>1559788614960</created>
@@ -291,10 +349,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97958000" />
+    <option name="totallyTimeSpent" value="98566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -356,8 +415,6 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shopping-mall/src/router/index.js" />
-    <entry file="file://$PROJECT_DIR$/shopping-mall/src/views/GoodList.vue" />
     <entry file="file://$PROJECT_DIR$/shopping-mall/src/components/NavFooter.vue" />
     <entry file="file://$PROJECT_DIR$/shopping-mall/src/components/NavBread.vue" />
     <entry file="file://$PROJECT_DIR$/shopping-mall/src/components/NavHeader.vue" />
@@ -590,8 +647,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JDFinance/app/css/element.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="540">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/app/js/home/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/app/js/public/header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
     </entry>
