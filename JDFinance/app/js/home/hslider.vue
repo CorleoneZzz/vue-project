@@ -1,3 +1,4 @@
+<!--component是组件的壳，home将数据填入壳中-->
 <template lang="html">
     <article class="">
         <Slider :items="items" :cname="$style.slider"/>
@@ -57,6 +58,7 @@
     }
 </script>
 
+<!--css模块化可以节省很多代码量，module，$style.-->
 <style lang="scss" module>
     @import "../../css/element.scss";
 
