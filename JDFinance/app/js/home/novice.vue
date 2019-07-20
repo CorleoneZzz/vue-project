@@ -25,8 +25,9 @@
 </template>
 
 <script>
-import Panel from "../component/panel.vue"
-export default {
+    import Panel from "../component/panel.vue"
+
+    export default {
     components: {
         Panel,
     },
@@ -73,9 +74,10 @@ export default {
         ul{
           width: 100%;
           li{
+            list-style: none;
             height: 144px;
             width: 100%;
-            padding: 32px 28px;
+            padding: 0 28px;
             box-sizing: border-box;
             &:first-child{
               border-bottom: 1px solid #ddd;
