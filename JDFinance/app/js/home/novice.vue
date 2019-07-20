@@ -40,6 +40,7 @@
     @include panel;
     >h4{
       border-bottom: 1px solid #ddd;
+        margin: 0;
     }
     .content{
       @include list(row);

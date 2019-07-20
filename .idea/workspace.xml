@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/JDFinance/app/js/home/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/app/js/home/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JDFinance/app/js/home/novice.vue" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/app/js/home/novice.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,7 +24,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JDFinance/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-377">
+            <state relative-caret-position="225">
               <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
             </state>
           </provider>
@@ -35,24 +35,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-              <folding>
-                <element signature="e#106#147#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JDFinance/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-392" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JDFinance/app/js/home/hslider.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
+            <state relative-caret-position="885">
               <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
             </state>
           </provider>
@@ -73,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JDFinance/app/js/home/novice.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="23" />
+            <state relative-caret-position="401">
+              <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -353,7 +348,8 @@
       <workItem from="1563200162567" duration="1485000" />
       <workItem from="1563262185047" duration="1534000" />
       <workItem from="1563459372514" duration="768000" />
-      <workItem from="1563620737560" duration="3394000" />
+      <workItem from="1563620737560" duration="3708000" />
+      <workItem from="1563630118078" duration="157000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:Guobinze/vue-project&#10;&#10;# Conflicts:&#10;#&#9;compoment-demo/src/components/Footer.vue&#10;#&#9;compoment-demo/src/components/Header.vue">
       <created>1559788614960</created>
@@ -429,7 +425,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103654000" />
+    <option name="totallyTimeSpent" value="104125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -685,31 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDFinance/app/js/component/btn.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JDFinance/app/js/component/panel.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JDFinance/app/js/component/slider.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JDFinance/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-392" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JDFinance/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -728,16 +699,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/JDFinance/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-377">
+        <state relative-caret-position="225">
           <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/JDFinance/app/js/home/hslider.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
+        <state relative-caret-position="885">
           <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
@@ -752,20 +729,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/app/js/component/btn.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/app/js/component/slider.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/app/js/component/panel.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/JDFinance/app/js/home/index.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <element signature="e#106#147#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JDFinance/app/js/home/novice.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="23" />
+        <state relative-caret-position="401">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
         </state>
       </provider>
     </entry>
