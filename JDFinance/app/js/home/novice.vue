@@ -74,6 +74,7 @@
         }
         ul{
           width: 100%;
+          padding-left: 0;
           li{
             list-style: none;
             height: 144px;
