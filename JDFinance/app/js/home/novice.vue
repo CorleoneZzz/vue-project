@@ -25,9 +25,8 @@
 </template>
 
 <script>
-    import Panel from "../component/panel.vue"
-
-    export default {
+import Panel from "../component/panel.vue"
+export default {
     components: {
         Panel,
     },
@@ -36,11 +35,11 @@
 
 <style lang="scss" module>
   @import '../../css/element.scss';
+  @import '../../css/reset.scss';
   .panel{
     @include panel;
     >h4{
       border-bottom: 1px solid #ddd;
-        margin: 0;
     }
     .content{
       @include list(row);
@@ -74,12 +73,10 @@
         }
         ul{
           width: 100%;
-          padding-left: 0;
           li{
-            list-style: none;
             height: 144px;
             width: 100%;
-            padding: 0 28px;
+            padding: 32px 28px;
             box-sizing: border-box;
             &:first-child{
               border-bottom: 1px solid #ddd;
