@@ -40,6 +40,7 @@ export default {
 }
 </script>
 
+<!--第三方样式无需引用css module-->
 <style lang="scss">
   .product-slider{
     .swiper-container{
