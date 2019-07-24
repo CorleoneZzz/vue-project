@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/JDFinance/app/js/home/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/app/js/home/index.vue" afterDir="false" />
-    </list>
+    <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -349,7 +347,7 @@
       <workItem from="1563776038002" duration="748000" />
       <workItem from="1563806922394" duration="284000" />
       <workItem from="1563883894447" duration="1919000" />
-      <workItem from="1563974857561" duration="699000" />
+      <workItem from="1563974857561" duration="772000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:Guobinze/vue-project&#10;&#10;# Conflicts:&#10;#&#9;compoment-demo/src/components/Footer.vue&#10;#&#9;compoment-demo/src/components/Header.vue">
       <created>1559788614960</created>
@@ -425,7 +423,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111293000" />
+    <option name="totallyTimeSpent" value="111366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
