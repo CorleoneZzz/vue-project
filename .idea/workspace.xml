@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JDFinance/app/js/public/footer.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDFinance/app/js/home/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/app/js/home/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDFinance/app/js/public/navbar.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JDFinance/app/js/home/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            <state relative-caret-position="420">
+              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
               <folding>
                 <element signature="e#212#253#0" expanded="true" />
               </folding>
@@ -41,17 +39,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JDFinance/app/js/public/footer.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="73" column="26" lean-forward="true" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+            <state relative-caret-position="568">
+              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JDFinance/app/js/home/product.vue">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JDFinance/app/js/public/navbar.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+            <state relative-caret-position="570">
+              <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -136,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/vue-blog/build/webpack.dev.conf.js" />
         <option value="$PROJECT_DIR$/vue-blog/config/index.js" />
         <option value="$PROJECT_DIR$/hello-vue/index.html" />
         <option value="$PROJECT_DIR$/vue-blog/src/router/index.js" />
@@ -187,6 +184,7 @@
         <option value="$PROJECT_DIR$/JDFinance/app/js/home/life.vue" />
         <option value="$PROJECT_DIR$/JDFinance/app/js/public/footer.vue" />
         <option value="$PROJECT_DIR$/JDFinance/app/js/home/index.vue" />
+        <option value="$PROJECT_DIR$/JDFinance/app/js/public/navbar.vue" />
       </list>
     </option>
   </component>
@@ -351,7 +349,7 @@
       <workItem from="1563776038002" duration="748000" />
       <workItem from="1563806922394" duration="284000" />
       <workItem from="1563883894447" duration="1919000" />
-      <workItem from="1563974857561" duration="243000" />
+      <workItem from="1563974857561" duration="411000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:Guobinze/vue-project&#10;&#10;# Conflicts:&#10;#&#9;compoment-demo/src/components/Footer.vue&#10;#&#9;compoment-demo/src/components/Header.vue">
       <created>1559788614960</created>
@@ -427,7 +425,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110837000" />
+    <option name="totallyTimeSpent" value="111005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -493,13 +491,6 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/online-translation/src/components/TranslateOutput.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/online-translation/src/components/1.vue" />
     <entry file="file://$PROJECT_DIR$/online-translation/src/components/TranslateForm.vue">
       <provider selected="true" editor-type-id="text-editor">
@@ -754,20 +745,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDFinance/app/js/public/footer.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="73" column="26" lean-forward="true" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JDFinance/app/js/home/index.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        <state relative-caret-position="420">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding>
             <element signature="e#212#253#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/app/js/public/footer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/app/js/public/navbar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
         </state>
       </provider>
     </entry>
