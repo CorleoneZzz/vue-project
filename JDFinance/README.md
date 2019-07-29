@@ -16,3 +16,41 @@ cd JDFinance
 npm install
 ```
 
+### 项目结构
+
+
+<table>
+  <thead>
+    <tr>
+      <th>文件名称</th>
+      <th>功能名称</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>router</td>
+      <td>vue-router部分</td>
+    </tr>
+    <tr>
+      <td>home</td>
+      <td>首页</td>
+    </tr>
+    <tr>
+      <td>money</td>
+      <td>理财</td>
+    </tr>
+    <tr>
+      <td>ious</td>
+      <td>白条</td>
+    </tr>
+    <tr>
+      <td>raise</td>
+      <td>众筹</td>
+    </tr>
+    <tr>
+      <td>download</td>
+      <td>活动页</td>
+    </tr>
+  </tbody>
+</table>
+

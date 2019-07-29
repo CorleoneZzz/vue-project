@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JDFinance/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/JDFinance/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/JDFinance/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <first_editor relative-caret-position="505">
+                <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -224,6 +223,19 @@
             <path>
               <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="JDFinance" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="JDFinance" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
               <item name="ToDoList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -237,7 +249,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JDFinance/app/js/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JDFinance/app/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -322,7 +334,7 @@
       <workItem from="1563976340623" duration="221000" />
       <workItem from="1564124454230" duration="202000" />
       <workItem from="1564405750935" duration="484000" />
-      <workItem from="1564409924192" duration="33000" />
+      <workItem from="1564409924192" duration="366000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:Guobinze/vue-project&#10;&#10;# Conflicts:&#10;#&#9;compoment-demo/src/components/Footer.vue&#10;#&#9;compoment-demo/src/components/Header.vue">
       <created>1559788614960</created>
@@ -398,7 +410,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112306000" />
+    <option name="totallyTimeSpent" value="112639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -739,8 +751,8 @@
     <entry file="file://$PROJECT_DIR$/JDFinance/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <first_editor relative-caret-position="505">
+            <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
