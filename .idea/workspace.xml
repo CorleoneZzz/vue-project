@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ToDoList/lib/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToDoList/lib/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDoList/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoList/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoList/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JDFinance/app/js/raise/daily.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JDFinance/app/js/raise/more.vue">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,8 +59,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ToDoList/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="270">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ToDoList/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -115,10 +115,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="vue File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="Vue Single File Component" />
         <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -139,8 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/router-demo/js/vue-router.js" />
-        <option value="$PROJECT_DIR$/router-demo/lib/vue.js" />
         <option value="$PROJECT_DIR$/router-demo/lib/vue-router.js" />
         <option value="$PROJECT_DIR$/router-demo/index.html" />
         <option value="$PROJECT_DIR$/router-demo/js/app.js" />
@@ -178,7 +177,6 @@
         <option value="$PROJECT_DIR$/JDFinance/app/js/public/footer.vue" />
         <option value="$PROJECT_DIR$/JDFinance/app/js/public/navbar.vue" />
         <option value="$PROJECT_DIR$/JDFinance/app/js/home/index.vue" />
-        <option value="$PROJECT_DIR$/ToDoList/index.html" />
         <option value="$PROJECT_DIR$/ToDoList/README.md" />
         <option value="$PROJECT_DIR$/JDFinance/README.md" />
         <option value="$PROJECT_DIR$/JDFinance/app/js/ious/islider.vue" />
@@ -190,6 +188,9 @@
         <option value="$PROJECT_DIR$/JDFinance/app/js/raise/rslider.vue" />
         <option value="$PROJECT_DIR$/ToDoList/lib/vue.js" />
         <option value="$PROJECT_DIR$/ToDoList/lib/normalize.css" />
+        <option value="$PROJECT_DIR$/ToDoList/css/main.scss" />
+        <option value="$PROJECT_DIR$/ToDoList/css/main.css" />
+        <option value="$PROJECT_DIR$/ToDoList/index.html" />
       </list>
     </option>
   </component>
@@ -224,6 +225,12 @@
               <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
               <item name="ToDoList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="ToDoList" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
@@ -329,7 +336,7 @@
       <workItem from="1564405750935" duration="484000" />
       <workItem from="1564409924192" duration="613000" />
       <workItem from="1564492575869" duration="98000" />
-      <workItem from="1564573489285" duration="327000" />
+      <workItem from="1564573489285" duration="2816000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:Guobinze/vue-project&#10;&#10;# Conflicts:&#10;#&#9;compoment-demo/src/components/Footer.vue&#10;#&#9;compoment-demo/src/components/Header.vue">
       <created>1559788614960</created>
@@ -405,7 +412,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113311000" />
+    <option name="totallyTimeSpent" value="115800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -471,14 +478,6 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/京东金融/Finance/JDFinance-master/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-632" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/京东金融/Finance/JDFinance-master/app/views/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/online-translation/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -768,6 +767,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ToDoList/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ToDoList/lib/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5235">
@@ -775,10 +781,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ToDoList/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ToDoList/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="270">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>
