@@ -10,19 +10,23 @@
      <div id="main">
          <div class="navbar">搞个待办清单吧</div>
          <div class="header">天黑了吗就写代码</div>
-         <div class="container">
-             <input type="text" placeholder="说说写点啥...">
+         <form @submit.prevent="add" class="container">
+             <input v-model="currentInput.title" type="text" placeholder="说说写点啥...">
+             <button type="submit">提交</button>
              已完成
              <div class="list-form">
-                 <div class="item">asaa</div>
+                 <div v-for="(todo,index) in list" class="item">{{todo}}
+                     <button @click="remove(index)">删除</button>
+                 </div>
              </div>
              未完成
              <div class="list-form">
                  <div class="complete-item">asaa</div>
              </div>
-         </div>
+         </form>
      </div>
      <script src="lib/vue.js"></script>
      <script src="js/storage.js"></script>
+     <script src="js/main.js"></script>
 </body>
 </html>
