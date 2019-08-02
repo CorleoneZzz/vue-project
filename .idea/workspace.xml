@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JDFinance/app/js/money/ada.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDFinance/app/js/money/adb.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDFinance/app/js/money/adc.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDFinance/app/js/money/finance.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDFinance/app/js/money/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDFinance/app/js/money/money.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDFinance/app/js/money/mslider.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -40,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JDFinance/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="290">
+              <first_editor relative-caret-position="515">
                 <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
               </first_editor>
               <second_editor />
@@ -70,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JDFinance/app/js/money/adc.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="143">
@@ -212,10 +203,10 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="95" />
-    <option name="width" value="761" />
-    <option name="height" value="370" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="807" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -370,7 +361,7 @@
       <workItem from="1564492575869" duration="98000" />
       <workItem from="1564573489285" duration="8898000" />
       <workItem from="1564722462710" duration="119000" />
-      <workItem from="1564756845154" duration="221000" />
+      <workItem from="1564756845154" duration="475000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:Guobinze/vue-project&#10;&#10;# Conflicts:&#10;#&#9;compoment-demo/src/components/Footer.vue&#10;#&#9;compoment-demo/src/components/Header.vue">
       <created>1559788614960</created>
@@ -446,10 +437,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122222000" />
+    <option name="totallyTimeSpent" value="122476000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="807" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="807" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17899929" />
@@ -795,16 +786,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDFinance/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="290">
-            <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JDFinance/app/js/money/mslider.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -857,6 +838,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
           <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDFinance/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="515">
+            <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
