@@ -11,7 +11,7 @@
 ### 安装
 
 ```shell
-git clone https://github.com/cucygh/JDFinance.git
+git clone https://github.com/Guobinze/vue-project/tree/master/JDFinance.git
 cd JDFinance
 npm install
 ```
@@ -48,7 +48,7 @@ npm install
       <td>众筹</td>
     </tr>
     <tr>
-      <td>download</td>
+      <td>special</td>
       <td>活动页</td>
     </tr>
   </tbody>
