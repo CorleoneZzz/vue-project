@@ -1,6 +1,17 @@
 <template>
   <div id="app">
     <mallHeader></mallHeader>
+    <div class="tab">
+      <div class="tab-item">
+        <router-link to="/foo">Go to Foo</router-link>
+      </div>
+      <div class="tab-item">
+        <router-link to="/foo">Go to Foo</router-link>
+      </div>
+      <div class="tab-item">
+        <router-link to="/foo">Go to Foo</router-link>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -12,5 +23,8 @@ export default {
 }
 </script>
 
-<style scoped lang="stylus">
+<style lang="stylus" rel="stylesheet/stylus">
+  .tab
+    display: flex
+
 </style>
