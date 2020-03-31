@@ -3,7 +3,7 @@
     <mallHeader></mallHeader>
     <div class="tab">
       <div class="tab-item">
-        <router-link to="/foo">Go to Foo</router-link>
+        <router-link to="/goods">Go to Foo</router-link>
       </div>
       <div class="tab-item">
         <router-link to="/foo">Go to Foo</router-link>
@@ -12,6 +12,7 @@
         <router-link to="/foo">Go to Foo</router-link>
       </div>
     </div>
+    <router-view></router-view>
   </div>
 </template>
 
@@ -25,6 +26,11 @@ export default {
 
 <style lang="stylus" rel="stylesheet/stylus">
   .tab
-    display: flex
-
+    display flex
+    width 100%
+    height 40px
+    line-height 40px
+    .tab-item
+      flex 1
+      text-align center
 </style>
