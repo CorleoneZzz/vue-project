@@ -1,12 +1,12 @@
 <template>
- <div>
-   商品
- </div>
+  <div>
+    评价
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'goods'
+  name: 'ratings'
 }
 </script>
 

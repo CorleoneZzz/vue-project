@@ -1,12 +1,12 @@
 <template>
- <div>
-   商品
- </div>
+  <div>
+    商家
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'goods'
+  name: 'sellers'
 }
 </script>
 
