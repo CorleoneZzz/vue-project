@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <mallHeader></mallHeader>
+    <mallHeader :seller="seller"></mallHeader>
     <div class="tab border-1px">
       <div class="tab-item">
         <router-link to="/goods">商品</router-link>
@@ -20,7 +20,25 @@
 import mallHeader from './components/header/header'
 export default {
   name: 'App',
-  components: {mallHeader}
+  components: {mallHeader},
+  data () {
+    return {
+      seller: {}
+    }
+  },
+  created () {
+    this.init()
+  },
+  methods: {
+    init () {
+      this.$http.get('/api/seller').then((response) => {
+        let data = response.data
+        if (data.errno === 0) {
+          this.seller = data.data
+        }
+      })
+    }
+  }
 }
 </script>
 
