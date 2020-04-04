@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddc1e0cd-db50-48d1-b532-93e9e6fb470e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ele-mall/src/common/stylus/base.styl" beforeDir="false" afterPath="$PROJECT_DIR$/ele-mall/src/common/stylus/base.styl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ele-mall/src/components/header/header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ele-mall/src/components/header/header.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -15,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ele-mall/src/components/goods/goods.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ele-mall/build/utils.js">
           <provider selected="true" editor-type-id="text-editor" />
@@ -51,13 +44,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ele-mall/src/components/header/header.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="163" column="22" selection-start-line="163" selection-start-column="22" selection-end-line="163" selection-end-column="22" />
-              <folding>
-                <element signature="e#1228#1288#0" />
-                <element signature="e#1312#2443#0" />
-                <element signature="e#3247#3846#0" />
-              </folding>
+            <state relative-caret-position="415">
+              <caret line="194" column="24" selection-start-line="194" selection-start-column="10" selection-end-line="194" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ele-mall/src/common/stylus/base.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -65,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ele-mall/src/common/stylus/icon.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
+            <state relative-caret-position="600">
               <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="26" />
             </state>
           </provider>
@@ -115,6 +112,10 @@
       <find>supports</find>
       <find>bulletin-title</find>
       <find>icon-keyboard_arrow_right</find>
+      <find>detail</find>
+      <find>detail-close</find>
+      <find>detail-main</find>
+      <find>detail-wrapper</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/JDFinance</dir>
@@ -126,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/online-translation/src/components/1.vue" />
         <option value="$PROJECT_DIR$/JDFinance/src/main.js" />
         <option value="$PROJECT_DIR$/JDFinance/index.html" />
         <option value="$PROJECT_DIR$/JDFinance/src/App.vue" />
@@ -177,6 +177,7 @@
         <option value="$PROJECT_DIR$/ele-mall/package.json" />
         <option value="$PROJECT_DIR$/ele-mall/data.json" />
         <option value="$PROJECT_DIR$/ele-mall/src/components/header/header.vue" />
+        <option value="$PROJECT_DIR$/ele-mall/src/common/stylus/base.styl" />
       </list>
     </option>
   </component>
@@ -186,7 +187,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="807" />
@@ -210,25 +211,6 @@
               <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
               <item name="ele-mall" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="ele-mall" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="ele-mall" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="ele-mall" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="标注" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue-projects" type="b2602c69:ProjectViewProjectNode" />
@@ -378,7 +360,9 @@
       <workItem from="1585663747507" duration="2022000" />
       <workItem from="1585668140438" duration="3407000" />
       <workItem from="1585747559264" duration="3076000" />
-      <workItem from="1585835382046" duration="3286000" />
+      <workItem from="1585835382046" duration="3381000" />
+      <workItem from="1585839706174" duration="876000" />
+      <workItem from="1586010077802" duration="1890000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:Guobinze/vue-project&#10;&#10;# Conflicts:&#10;#&#9;compoment-demo/src/components/Footer.vue&#10;#&#9;compoment-demo/src/components/Header.vue">
       <created>1559788614960</created>
@@ -454,13 +438,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137442000" />
+    <option name="totallyTimeSpent" value="140303000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="807" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="807" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18604651" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18604651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -472,7 +456,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32867134" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.16223776" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.16223776" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -530,13 +514,6 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ToDoList/lib/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5235">
-          <caret line="349" selection-start-line="349" selection-end-line="349" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JDFinance/app/js/ious/index.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -798,6 +775,9 @@
     <entry file="file://$PROJECT_DIR$/ele-mall/src/components/header/assets/special_1@2x.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/ele-mall/resource/标注/外卖01_商品页_spec.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/ele-mall/src/components/goods/goods.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -821,18 +801,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ele-mall/src/components/header/assets/decrease_1@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ele-mall/src/components/header/assets/decrease_1@3x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ele-mall/resource/标注/外卖01_商品页_spec.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ele-mall/src/common/stylus/icon.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="600">
           <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="26" />
         </state>
       </provider>
@@ -844,15 +815,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ele-mall/src/components/header/assets/decrease_1@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ele-mall/src/components/header/assets/decrease_1@3x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ele-mall/src/common/stylus/base.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ele-mall/src/components/header/header.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="163" column="22" selection-start-line="163" selection-start-column="22" selection-end-line="163" selection-end-column="22" />
-          <folding>
-            <element signature="e#1228#1288#0" />
-            <element signature="e#1312#2443#0" />
-            <element signature="e#3247#3846#0" />
-          </folding>
+        <state relative-caret-position="415">
+          <caret line="194" column="24" selection-start-line="194" selection-start-column="10" selection-end-line="194" selection-end-column="24" />
         </state>
       </provider>
     </entry>

@@ -18,16 +18,24 @@
         </div>
       </div>
       <div v-if="seller.supports" class="support-count">
-        <span class="count">{{seller.supports.length}}个</span>
+        <span class="count" @click="showDetail">{{seller.supports.length}}个</span>
         <i class="icon-keyboard_arrow_right"></i>
       </div>
     </div>
-    <div class="bulletin-wrapper">
+    <div class="bulletin-wrapper" @click="showDetail">
       <span class="bulletin-title"></span><span class="bulletin-text">{{seller.bulletin}}</span>
       <i class="icon-keyboard_arrow_right"></i>
     </div>
     <div class="background">
       <img :src="seller.avatar">
+    </div>
+<!--css sticky固定写法-->
+    <div class="detail" v-if="detailShow">
+      <div class="detail-wrapper clearfix">
+        <div class="detail-main">
+        </div>
+      </div>
+      <div class="detail-close"><i class="icon-close"></i></div>
     </div>
   </div>
 </template>
@@ -42,7 +50,13 @@ export default {
   },
   data () {
     return {
-      classMap: ['decrease', 'discount', 'special', 'invoice', 'guarantee']
+      classMap: ['decrease', 'discount', 'special', 'invoice', 'guarantee'],
+      detailShow: false
+    }
+  },
+  methods: {
+    showDetail () {
+      this.detailShow = true;
     }
   }
 }
@@ -165,4 +179,25 @@ export default {
       img
         width 100%
         height 100%
+    .detail
+      position fixed
+      z-index 100
+      top 0
+      left 0
+      width 100%
+      height 100%
+      overflow auto
+      background rgba(7, 17, 27, 0.8)
+      .detail-wrapper
+        min-height 100%
+        .detail-main
+          margin-top 64px
+          padding-bottom 64px
+      .detail-close
+        position relative
+        width 32px
+        height 32px
+        margin -64px auto 0 auto
+        clear both
+        font-size 32px
 </style>
